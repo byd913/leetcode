@@ -1,3 +1,4 @@
+# -*- coding=utf-8 -*-
 import unittest
 
 from unique_path_with_obstacles import Solution
